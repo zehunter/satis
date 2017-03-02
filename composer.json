@@ -1,8 +1,8 @@
 {
-    "name": "composer/satis",
-    "description": "Simple Repository Generator",
+    "name": "zehunter/satis",
+    "description": "Simple Repository Generator php5.4",
     "keywords": ["package", "repository", "generator", "static", "composer"],
-    "homepage": "https://github.com/composer/satis",
+    "homepage": "https://github.com/zehunter/satis",
     "type": "library",
     "license": "MIT",
     "authors": [{
